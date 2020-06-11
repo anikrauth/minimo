@@ -1,0 +1,203 @@
+            /*Extra small devices (portrait phones, less than 576px)*/
+            
+            @media (max-width: 575.98px) {
+                #header-part {
+                    padding-top: 20px;
+                    margin-bottom: 40px;
+                }
+                .navbar-nav {
+                    padding-left: 270px;
+                }
+                #photodiary-part {
+                    margin-top: 60px;
+                }
+                .photodairy-part-content-description {
+                    font-size: 13px;
+                    padding-right: 0px;
+                }
+                .leave-comment {
+                    padding-top: 12px;
+                }
+                .first-post-content .post-title {
+                    font-size: 17px;
+                    padding-top: 0;
+                }
+                .first-post-content .post-description {
+                    font-size: 13px;
+                    padding-top: 0px;
+                    padding-right: 0px;
+                }
+                .first-post-content .categories {
+                    font-size: 13px;
+                    padding-top: 20px;
+                }
+                .fist-post-top-m {
+                    margin-top: 40px;
+                }
+                #first-post-part {
+                    margin-top: 43px;
+                    padding-bottom: 36px;
+                }
+                #newsletter-part {
+                    padding: 60px 0px;
+                }
+                .newsletter-part-title {
+                    font-size: 32px;
+                }
+                .newsletter-input {
+                    width: 392px;
+                }
+                .newsletter-part-title {
+                    padding-bottom: 60px;
+                }
+                .newsletter-btn {
+                    right: 16%;
+                }
+                .newsletter-btn>i {
+                    font-size: 20px;
+                }
+            }
+            /*Small devices (landscape phones, 576px and up)*/
+            
+            @media (min-width: 576px) and (max-width: 767.98px) {
+                #header-part {
+                    padding-top: 25px;
+                    margin-bottom: 45px;
+                }
+                .navbar-nav {
+                    padding-left: 347px;
+                }
+                #photodiary-part {
+                    margin-top: 60px;
+                }
+                .photodairy-part-content-description {
+                    font-size: 13px;
+                    padding-right: 0px;
+                }
+                .leave-comment {
+                    padding-top: 12px;
+                }
+                .first-post-content .post-title {
+                    font-size: 17px;
+                    padding-top: 0;
+                }
+                .first-post-content .post-description {
+                    font-size: 13px;
+                    padding-top: 0px;
+                    padding-right: 0px;
+                }
+                .first-post-content .categories {
+                    font-size: 13px;
+                    padding-top: 20px;
+                }
+                .fist-post-top-m {
+                    margin-top: 40px;
+                }
+                #first-post-part {
+                    margin-top: 43px;
+                    padding-bottom: 36px;
+                }
+                #newsletter-part {
+                    padding: 60px 0px;
+                }
+                .newsletter-part-title {
+                    font-size: 32px;
+                }
+                .newsletter-input {
+                    width: 392px;
+                }
+                .newsletter-part-title {
+                    padding-bottom: 60px;
+                }
+                .newsletter-btn {
+                    right: 16%;
+                }
+                .newsletter-btn>i {
+                    font-size: 20px;
+                }
+            }
+            /*Medium devices (tablets, 768px and up)*/
+            
+            @media (min-width: 768px) and (max-width: 991.98px) {
+                #header-part {
+                    padding-top: 30px;
+                    margin-bottom: 50px;
+                }
+                .navbar-nav {
+                    padding-left: 542px;
+                }
+                #photodiary-part {
+                    margin-top: 60px;
+                }
+                .photodairy-part-content-description {
+                    font-size: 16px;
+                }
+                .leave-comment {
+                    padding-top: 12px;
+                }
+                .first-post-content .post-title {
+                    font-size: 22px;
+                }
+                .first-post-content .post-description {
+                    font-size: 16px;
+                }
+                .fist-post-top-m {
+                    margin-top: 60px;
+                }
+                #first-post-part {
+                    margin-top: 60px;
+                    padding-bottom: 80px;
+                }
+                #newsletter-part {
+                    padding: 60px 0px;
+                }
+                .newsletter-part-title {
+                    font-size: 32px;
+                }
+                .newsletter-input {
+                    width: 392px;
+                }
+                .newsletter-part-title {
+                    padding-bottom: 60px;
+                }
+                .newsletter-btn {
+                    right: 25%;
+                }
+                .newsletter-btn>i {
+                    font-size: 20px;
+                }
+            }
+            
+            @media (min-width: 992px) and (max-width: 1199.98px) {
+                #header-part {
+                    padding-top: 35px;
+                    margin-bottom: 55px;
+                }
+                #first-post-part {
+                    margin-top: 60px;
+                    padding-bottom: 80px;
+                }
+                #newsletter-part {
+                    padding: 60px 0px;
+                }
+                .newsletter-part-title {
+                    font-size: 32px;
+                }
+                .newsletter-input {
+                    width: 392px;
+                }
+                .newsletter-part-title {
+                    padding-bottom: 60px;
+                }
+                .newsletter-btn {
+                    right: 31%;
+                }
+                .newsletter-btn>i {
+                    font-size: 20px;
+                }
+            }
+            /*Extra large devices (large desktops, 1200px and up)*/
+            
+            @media (min-width: 1200px) and (max-width: 1365px) {}
+            
+            @media (min-width: 1366px) {}
